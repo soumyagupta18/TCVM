@@ -1,7 +1,7 @@
 # Tea-Coffee Vending Machine
 
 ### Problem Statement
-Tea Coffee Vending machine is used for making tea and coffee. Now a day’s Tea-Coffee
+Tea Coffee Vending machine is used for making tea and coffee. Now a dayâ€™s Tea-Coffee
 vending machine is a common need of an organization refreshment stall, where one can
 easily serve different flavor of tea and coffee drink.
 br 
@@ -22,7 +22,7 @@ should also have flexible reporting features.
  Exit TCVM
 
 ### Use Case
-![tcvm use case](Images/TCVM Use Case.png)
+![tcvm use case](https://github.com/soumyagupta18/TCVM/blob/master/Images/TCVM%20Use%20Case.png)
 
 ### Running The Application
 1. Download the zip by clicking on Clone or Download  Download as Zip.
