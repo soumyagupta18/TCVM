@@ -1,0 +1,72 @@
+[
+  {
+    "quantity": 5,
+    "drink": "TEA",
+    "status": true
+  },
+  {
+    "quantity": 5,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 4,
+    "drink": "TEA",
+    "status": true
+  },
+  {
+    "quantity": 3,
+    "drink": "BLACK_TEA",
+    "status": true
+  },
+  {
+    "quantity": 3,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 1,
+    "drink": "BLACK_COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 1,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 5,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 2,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 2,
+    "drink": "BLACK_TEA",
+    "status": true
+  },
+  {
+    "quantity": 20,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 50,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 3,
+    "drink": "COFFEE",
+    "status": true
+  },
+  {
+    "quantity": 5,
+    "drink": "COFFEE",
+    "status": true
+  }
+]
